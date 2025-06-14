@@ -1,33 +1,51 @@
-# Monthly Expenses Trackizer App UI UX Design Convent Into Flutter Code
+Monthly Expenses Trackizer App
+Overview
+Trackizer is a mobile application built with Flutter that visually replicates a beautiful Monthly Expenses Tracker UI. This app is part of a UI/UX conversion series from design to Flutter code and includes various screens like subscriptions, budget tracking, credit card management, and settings.
 
-# codeforany @codeforany
+Features:
+Onboarding and sign-up UI
+Bottom navigation with multiple tabs
+Home dashboard for expenses
+Spending budget interface
+Calendar for subscription schedules
+Add new subscriptions & credit cards
+Settings and subscription detail screens
 
-- [Youtube Full Playlist: Monthly Expenses  App UI UX Design Convent Into Flutter Code](https://www.youtube.com/playlist?list=PLzcRC7PA0xWQRSF-Crjk6q3AQArDgCxak)
-- [Youtube Channel: @codeforany](https://www.youtube.com/channel/UCdQTp9wRK5vAOlEQZf9PHSg)
-- [Youtube Channel Subscribe: @codeforany](https://www.youtube.com/channel/UCdQTp9wRK5vAOlEQZf9PHSg?sub_confirmation=1)
+Tech Stack
+Frontend: Flutter, Dart
 
-- [Youtube Video Part-1: App Induction, Sign Up Flow UI](https://youtu.be/A8Ou5iHU5lI)
-- [Youtube Video Part-2: Bottom TabView UI, Home Tab UI](https://youtu.be/LwW4Z35n-wM)
-- [Youtube Video Part-3: Spending Budgets Tab UI](https://youtu.be/LHkkCG8W5YI)
-- [Youtube Video Part-4: Subscription Schedule Calendar Tab UI](https://youtu.be/aViCUzVWo7o)
-- [Youtube Video Part-5: Add New Subscription UI](https://youtu.be/zNd3YDQu3sw)
-- [Youtube Video Part-6: Subscription Info Details Screen UI](https://youtu.be/5-sb4jXf3bc)
-- [Youtube Video Part-7: App Settings Screen UI](https://youtu.be/l9dM3X0Up0A)
-- [Youtube Video Part-8: Add Credit Cards Tab UI](https://youtu.be/zlLowXpiAZw)
+Installation:
+Clone the repository:
+sh
+Copy
+Edit
+git clone https://github.com/yourusername/TrackizerApp.git
+Navigate to the project directory:
 
-UI UX App Design by: [symu.co](https://symu.co/)
+sh
+Copy
+Edit
+cd TrackizerApp
+Install dependencies:
 
-A new Flutter project.
+flutter pub get
+Run the app:
 
-## Getting Started
+flutter run
+Folder Structure
 
-This project is a starting point for a Flutter application.
+TrackizerApp/
+│-- lib/
+│   │-- main.dart
+│   │-- screens/
+│   │-- widgets/
+│   │-- models/
+│-- assets/
+│-- pubspec.yaml
+│-- README.md
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+License
+This project is licensed under the MIT License.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Happy coding! 💸📱
